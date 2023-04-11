@@ -2,3 +2,5 @@
 - Java OOP
 - Mysql/Database
 - Java Lambda
+- Struktur Data Dasar
+
